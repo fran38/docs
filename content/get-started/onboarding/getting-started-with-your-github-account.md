@@ -186,7 +186,7 @@ For more information, see "[Securing your software supply chain](/code-security/
 
 {% data reusables.docs.you-can-read-docs-for-your-product %}
 
-### 4. Learning with {% data variables.product.prodname_learning %}
+### 4. Learning with {% data variales.product.prodname_learning %}
 {% data reusables.getting-started.learning-lab %}
 
 {% ifversion fpt or ghec %}
